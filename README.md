@@ -60,6 +60,14 @@ Bilingual (Arabic/English) platform for an IT services company: public marketing
 
 ---
 
+### 📊 Business Admin Dashboard
+Enterprise-style analytics dashboard with a full admin feature set: live sales/revenue charts, sortable & paginated data tables with CSV export, bulk row actions, click-to-open detail drawers, a global command palette (Ctrl/Cmd+K), keyboard-navigable search, a notifications center, and a dark/light theme toggle. Six fully functional pages — Dashboard, Users, Orders, Products, Reports, and Settings — built on a clean, reusable component and CSS-variable design system.
+**Stack:** React 19, Vite, React Router DOM, Recharts, Framer Motion, Bootstrap Icons, Context API
+🔗 Repository: https://github.com/MustafaCoder365/Business-Admin-Dashboard
+🌐 Live Demo: https://mustafacoder365.github.io/Business-Admin-Dashboard/
+
+---
+
 ### 📚 Book Store Application
 Full-featured e-commerce book store — product catalog with live search, shopping cart (Context API + localStorage), multi-step checkout flow, and a login/register system with modal + full-page views.
 **Stack:** React.js, React Router DOM, Context API, Vite, CSS3
