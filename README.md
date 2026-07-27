@@ -37,17 +37,12 @@ Building modern, responsive web applications with React.js, Next.js, TypeScript,
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
   <img
     src="https://github-readme-stats-vert-ten-14.vercel.app/api?username=MustafaCoder365&show_icons=true&theme=default&hide_border=true"
     alt="Mustafa Shakir GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=MustafaCoder365&theme=default&hide_border=true"
-    alt="Mustafa Shakir GitHub Streak"
   />
 </p>
 
