@@ -53,10 +53,10 @@ Full-stack blog platform with authentication, CRUD operations, and RESTful API i
 ---
 
 ### 📚 Book Store Application
-Complete bookstore built from scratch with reusable components and cart system.  
-**Stack:** React.js  
-🔗 Repository: (Add Link)  
-🌐 Live Demo: Coming Soon  
+Full-featured e-commerce book store — product catalog with live search, shopping cart (Context API + localStorage), multi-step checkout flow, and a login/register system with modal + full-page views.
+**Stack:** React.js, React Router DOM, Context API, Vite, CSS3
+🔗 Repository: https://github.com/MustafaCoder365/Book-Store-Application
+🌐 Live Demo: https://mustafacoder365.github.io/Book-Store-Application/ 
 
 ---
 
