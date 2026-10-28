@@ -49,6 +49,23 @@ Bilingual (Arabic / English) platform for an IT services company: public marketi
 
 ---
 
+### 🦷 Lumina Dental — Clinic Website (Concept)
+
+Bilingual (Arabic / English) website for a fictional dental clinic in Baghdad, with a visual identity drawn from Baghdad's kashi tilework.
+
+- Full Arabic and English with right-to-left layout and automatic language detection
+- Live "open now" status calculated in Baghdad time
+- Treatments with transparent starting prices in IQD
+- Validated booking form for Iraqi phone numbers
+- Accessible, mobile-first, deployed as a static site with GitHub Actions
+
+`Next.js 16` `TypeScript` `Tailwind CSS 4` `React 19`
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View-16A34A?style=flat-square)](https://mustafacoder365.github.io/lumina-dental-website/)
+[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/MustafaCoder365/lumina-dental-website)
+
+---
+
 ### 📊 Business Admin Dashboard
 
 Enterprise-style analytics dashboard with six fully functional pages: Dashboard, Users, Orders, Products, Reports, and Settings.
