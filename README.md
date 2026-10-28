@@ -129,8 +129,14 @@ Tourism booking web app.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-vert-ten-14.vercel.app/api?username=MustafaCoder365&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats-vert-ten-14.vercel.app/api/top-langs/?username=MustafaCoder365&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg" />
+    <img height="165" src="./profile/stats.svg" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg" />
+    <img height="165" src="./profile/top-langs.svg" alt="Top Languages" />
+  </picture>
 </p>
 
 ---
