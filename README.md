@@ -1,58 +1,32 @@
-<h1 align="center">Hi 👋, I'm Mustafa Shakir</h1>
-<h3 align="center">Frontend Software Developer</h3>
+<div align="center">
 
-<p align="center">
-Building modern, responsive web applications with React.js, Next.js, TypeScript, and Tailwind CSS
-</p>
+# Hi 👋, I'm Mustafa Shakir
 
-<p align="center">
-📍 Baghdad, Iraq | 💼 Open to Full-Time & Remote Opportunities
-</p>
+### Frontend Software Developer — Next.js · React · TypeScript
 
----
+I build fast, modern, production-ready web apps — from company websites to admin dashboards and full-stack platforms.
 
-## 🚀 Tech Stack
+📍 Baghdad, Iraq &nbsp;•&nbsp; 💼 Open to Full-Time & Remote Opportunities
 
-### Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap" />
-</p>
+<a href="mailto:mustafa1997670@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-0F172A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/mustafa-shakir-840374330"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://truestackit.com"><img src="https://img.shields.io/badge/TrueStackIT-Live-16A34A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="TrueStackIT" /></a>
 
-### Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
-</p>
-
-### Databases
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,prisma,mongodb,mysql" />
-</p>
-
-### Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,vercel" />
-</p>
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 💼 Experience
 
-<p align="center">
-  <img
-    src="https://github-readme-stats-vert-ten-14.vercel.app/api?username=MustafaCoder365&show_icons=true&theme=default&hide_border=true"
-    alt="Mustafa Shakir GitHub Stats"
-  />
-</p>
+**Frontend Software Developer — [OAK Engineering Solutions](https://oak.com.iq)**
 
----
+Delivered the official corporate website for an Iraqi engineering consultancy, from requirements to production.
 
-## 💼 Professional Experience
+- Built with **Next.js, TypeScript, and Tailwind CSS**
+- Mobile-first, fully responsive UI
+- Reusable component architecture
 
-### Frontend Software Developer — OAK Engineering Solutions
-
-Delivered the official corporate website for an Iraqi engineering consultancy, from requirements to production. Built with Next.js, TypeScript, and Tailwind CSS, with a mobile-first responsive UI and reusable component architecture.
-
-🌐 Live Site: https://oak.com.iq
+🌐 **Live:** [oak.com.iq](https://oak.com.iq)
 
 ---
 
@@ -60,56 +34,113 @@ Delivered the official corporate website for an Iraqi engineering consultancy, f
 
 ### 🧱 TrueStackIT — Full-Stack IT Services Platform
 
-Bilingual (Arabic/English) platform for an IT services company: public marketing site, admin dashboard, and client portal. Includes authentication, RBAC, audit logging, security hardening (rate limiting, CSRF/CSP/HSTS), payment gateway integration (PayTabs, ZainCash), a full CMS with admin CRUD, a custom Three.js 3D hero experience, and CI/CD with Docker.
+Bilingual (Arabic / English) platform for an IT services company: public marketing site, admin dashboard, and client portal.
 
-Stack: Next.js 15, TypeScript, Tailwind CSS, NestJS, PostgreSQL, Prisma ORM, Three.js, Docker, Jest
+- Authentication, **RBAC**, and audit logging
+- Security hardening: rate limiting, CSRF / CSP / HSTS
+- Payment gateways: **PayTabs, ZainCash**
+- Full CMS with admin CRUD
+- Custom **Three.js** 3D hero experience
+- CI/CD with Docker
 
-🌐 Live Demo: https://truestackit.com
+`Next.js 15` `TypeScript` `Tailwind CSS` `NestJS` `PostgreSQL` `Prisma` `Three.js` `Docker` `Jest`
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-truestackit.com-16A34A?style=flat-square)](https://truestackit.com)
 
 ---
 
 ### 📊 Business Admin Dashboard
 
-Enterprise-style analytics dashboard with a full admin feature set: live sales/revenue charts, sortable & paginated data tables with CSV export, bulk row actions, click-to-open detail drawers, a global command palette (Ctrl/Cmd+K), keyboard-navigable search, a notifications center, and a dark/light theme toggle. Six fully functional pages — Dashboard, Users, Orders, Products, Reports, and Settings — built on a clean, reusable component and CSS-variable design system.
+Enterprise-style analytics dashboard with six fully functional pages: Dashboard, Users, Orders, Products, Reports, and Settings.
 
-Stack: React 19, Vite, React Router DOM, Recharts, Framer Motion, Bootstrap Icons, Context API
+- Live sales & revenue charts
+- Sortable, paginated tables with **CSV export** and bulk actions
+- Global **command palette** (Ctrl / Cmd + K) and keyboard-navigable search
+- Detail drawers, notifications center, dark / light theme
+- Reusable component and CSS-variable design system
 
-🔗 Repository: https://github.com/MustafaCoder365/Business-Admin-Dashboard
+`React 19` `Vite` `React Router` `Recharts` `Framer Motion` `Context API`
 
-🌐 Live Demo: https://mustafacoder365.github.io/Business-Admin-Dashboard/
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View-16A34A?style=flat-square)](https://mustafacoder365.github.io/Business-Admin-Dashboard/)
+[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/MustafaCoder365/Business-Admin-Dashboard)
 
 ---
 
 ### 📚 Book Store Application
 
-Full-featured e-commerce book store — product catalog with live search, shopping cart (Context API + localStorage), multi-step checkout flow, and a login/register system with modal + full-page views.
+Full-featured e-commerce book store.
 
-Stack: React.js, React Router DOM, Context API, Vite, CSS3
+- Product catalog with live search
+- Shopping cart (Context API + localStorage)
+- Multi-step checkout flow
+- Login / register with modal and full-page views
 
-🔗 Repository: https://github.com/MustafaCoder365/Book-Store-Application
+`React` `React Router` `Context API` `Vite` `CSS3`
 
-🌐 Live Demo: https://mustafacoder365.github.io/Book-Store-Application/
-
----
-
-### 🏜 Dubai Desert Safari
-
-Tourism booking web app with tour listings, dynamic tour detail pages, ratings & reviews, and a booking/pricing card. Includes login/register forms with validation, toast notifications, and a fully responsive layout.
-
-Stack: React.js, React Router DOM, Vite, React Toastify, Bootstrap Icons, CSS3
-
-🔗 Repository: https://github.com/MustafaCoder365/Dubai-Desert-Safari
-
-🌐 Live Demo: https://mustafacoder365.github.io/Dubai-Desert-Safari/
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View-16A34A?style=flat-square)](https://mustafacoder365.github.io/Book-Store-Application/)
+[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/MustafaCoder365/Book-Store-Application)
 
 ---
 
-## 📫 Contact
+### 🏜️ Dubai Desert Safari
 
-📧 mustafa1997670@gmail.com
+Tourism booking web app.
 
-🔗 LinkedIn: https://www.linkedin.com/in/mustafa-shakir-840374330
+- Tour listings and dynamic tour detail pages
+- Ratings, reviews, and a booking / pricing card
+- Login / register with validation and toast notifications
+- Fully responsive layout
+
+`React` `React Router` `Vite` `React Toastify` `CSS3`
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View-16A34A?style=flat-square)](https://mustafacoder365.github.io/Dubai-Desert-Safari/)
+[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/MustafaCoder365/Dubai-Desert-Safari)
 
 ---
+
+<details>
+<summary><b>🧪 More projects & UI practice</b></summary>
+<br>
+
+| Project | Repository |
+|---|---|
+| YouTube Clone | [YouTube-Clone](https://github.com/MustafaCoder365/YouTube-Clone) |
+| Kasper Template | [kasper-template](https://github.com/MustafaCoder365/kasper-template) |
+| Leon Template | [leon-template](https://github.com/MustafaCoder365/leon-template) |
+| Mood Login UI | [mood-login-ui](https://github.com/MustafaCoder365/mood-login-ui) |
+| Mood Soft Slider | [mood-soft-slider](https://github.com/MustafaCoder365/mood-soft-slider) |
+| Rock Paper Scissors | [Rock-Paper-Scissors](https://github.com/MustafaCoder365/Rock-Paper-Scissors) |
+
+</details>
+
+---
+
+## 🛠️ Tech Stack
+
+| Area | Tools |
+|---|---|
+| **Frontend** | <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css,bootstrap" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,prisma,mongodb,mysql" /> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,vercel" /> |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-vert-ten-14.vercel.app/api?username=MustafaCoder365&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-vert-ten-14.vercel.app/api/top-langs/?username=MustafaCoder365&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
+</p>
+
+---
+
+<div align="center">
+
+**Let's build something great together.**
+
+📧 [mustafa1997670@gmail.com](mailto:mustafa1997670@gmail.com) &nbsp;•&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/mustafa-shakir-840374330)
 
 ⭐ Always building. Always improving.
+
+</div>
