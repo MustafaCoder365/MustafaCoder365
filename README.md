@@ -66,6 +66,22 @@ Bilingual (Arabic / English) website for a fictional dental clinic in Baghdad, w
 
 ---
 
+### ⚖️ Hammurabi Law — Law Firm Website (Concept)
+
+Bilingual (Arabic / English) website for a fictional Baghdad law firm, with an identity drawn from the Code of Hammurabi stele.
+
+- Hero stele with a real photo as its relief and the firm's promises "carved" over cuneiform texture
+- Full Arabic and English with right-to-left layout and automatic language detection
+- Practice areas, partners, office, FAQ, and a validated consultation form
+- Classic Arabic/Latin typography (Amiri + IBM Plex Sans Arabic), deployed with GitHub Actions
+
+`Next.js 16` `TypeScript` `Tailwind CSS 4` `React 19`
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View-16A34A?style=flat-square)](https://mustafacoder365.github.io/law-firm-website/)
+[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/MustafaCoder365/law-firm-website)
+
+---
+
 ### 📊 Business Admin Dashboard
 
 Enterprise-style analytics dashboard with six fully functional pages: Dashboard, Users, Orders, Products, Reports, and Settings.
