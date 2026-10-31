@@ -113,9 +113,9 @@ A Baghdad law firm concept with an identity drawn from the Code of Hammurabi ste
 
 A dental clinic concept whose visual identity comes from Baghdad's kashi tilework.
 
-- Treatments with transparent starting prices in IQD
-- Live "open now" status and a validated booking form for Iraqi phone numbers
-- Accessible, mobile-first, static export deployed with GitHub Actions
+- **"Where does it hurt?"**: an interactive mouth map (FDI) that turns a tooth and a symptom into a likely treatment and price
+- **Cost estimator** with quantities and interest-free installments, feeding straight into booking
+- Live "open now" status, validated booking for Iraqi numbers, WhatsApp follow-up
 
 `Next.js 16` `TypeScript` `Tailwind CSS 4` `React 19`
 
