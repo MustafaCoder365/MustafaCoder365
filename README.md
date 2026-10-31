@@ -1,154 +1,145 @@
-<div align="center">
+<a href="https://github.com/MustafaCoder365">
+  <img src="./profile/banner.svg" width="100%" alt="Mustafa Shakir — Frontend Software Developer. Next.js, React, TypeScript, Three.js, Tailwind CSS. Baghdad, Iraq." />
+</a>
 
-# Hi 👋, I'm Mustafa Shakir
+<p align="center">
+  <a href="mailto:mustafa1997670@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-0F172A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/mustafa-shakir-840374330"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://truestackit.com"><img src="https://img.shields.io/badge/TrueStackIT-Live-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="TrueStackIT" /></a>
+  <a href="https://oak.com.iq"><img src="https://img.shields.io/badge/OAK-Client%20work-16A34A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="OAK Engineering Solutions" /></a>
+</p>
 
-### Frontend Software Developer — Next.js · React · TypeScript
+## 👋 About me
 
-I build fast, modern, production-ready web apps — from company websites to admin dashboards and full-stack platforms.
+I'm a frontend developer from Baghdad who builds **fast, polished websites and web apps** with Next.js, React, and TypeScript, from company sites to admin dashboards and full-stack platforms.
 
-📍 Baghdad, Iraq &nbsp;•&nbsp; 💼 Open to Full-Time & Remote Opportunities
+- 🌍 **Arabic and English, done properly**: real right-to-left layouts, not mirrored afterthoughts
+- 🧊 **Interactive 3D on the web** with Three.js and React Three Fiber, tuned to stay smooth on ordinary laptops and phones
+- 🎨 **Distinct design for every brand**: each site below has its own identity, layout, and typography
+- ⚡ **Production habits**: accessibility, performance, SEO, CI/CD, and clean, reusable components
 
-<a href="mailto:mustafa1997670@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-0F172A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/mustafa-shakir-840374330"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://truestackit.com"><img src="https://img.shields.io/badge/TrueStackIT-Live-16A34A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="TrueStackIT" /></a>
+<br>
 
-</div>
+## 💼 Client work
 
----
+<a href="https://oak.com.iq"><img src="./profile/projects/oak.jpg" width="100%" alt="OAK Engineering Solutions website on desktop and phone" /></a>
 
-## 💼 Experience
+### OAK Engineering Solutions — Corporate website
 
-**Frontend Software Developer — [OAK Engineering Solutions](https://oak.com.iq)**
-
-Delivered the official corporate website for an Iraqi engineering consultancy, from requirements to production.
+Official website for an Iraqi engineering consultancy, delivered from requirements to production.
 
 - Built with **Next.js, TypeScript, and Tailwind CSS**
-- Mobile-first, fully responsive UI
-- Reusable component architecture
+- Mobile-first, fully responsive UI with a reusable component architecture
 
-🌐 **Live:** [oak.com.iq](https://oak.com.iq)
+[![Live](https://img.shields.io/badge/Live-oak.com.iq-16A34A?style=flat-square&logo=googlechrome&logoColor=white)](https://oak.com.iq)
 
----
+<br>
 
-## 🚀 Featured Projects
+## 🚀 Featured projects
 
-### 🧱 TrueStackIT — Full-Stack IT Services Platform
+<a href="https://truestackit.com"><img src="./profile/projects/truestackit.jpg" width="100%" alt="TrueStackIT platform on desktop and phone" /></a>
 
-Bilingual (Arabic / English) platform for an IT services company: public marketing site, admin dashboard, and client portal.
+### 🧱 TrueStackIT — Full-stack IT services platform
 
-- Authentication, **RBAC**, and audit logging
-- Security hardening: rate limiting, CSRF / CSP / HSTS
-- Payment gateways: **PayTabs, ZainCash**
-- Full CMS with admin CRUD
-- Custom **Three.js** 3D hero experience
-- CI/CD with Docker
+Bilingual platform for an IT services company: public marketing site, admin dashboard, and client portal.
 
-`Next.js 15` `TypeScript` `Tailwind CSS` `NestJS` `PostgreSQL` `Prisma` `Three.js` `Docker` `Jest`
+- **Auth, RBAC, and audit logging**, with rate limiting and CSRF / CSP / HSTS hardening
+- **Payments** with PayTabs and ZainCash, plus a full CMS with admin CRUD
+- Custom **Three.js** 3D hero, Dockerized **CI/CD**
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-truestackit.com-16A34A?style=flat-square)](https://truestackit.com)
+`Next.js 15` `TypeScript` `NestJS` `PostgreSQL` `Prisma` `Three.js` `Docker` `Jest`
+
+[![Live](https://img.shields.io/badge/Live-truestackit.com-4F46E5?style=flat-square&logo=googlechrome&logoColor=white)](https://truestackit.com)
 
 ---
 
-### 🦷 Lumina Dental — Clinic Website (Concept)
+<a href="https://mustafacoder365.github.io/restaurant-website/"><img src="./profile/projects/dijla-grill.jpg" width="100%" alt="Dijla Grill restaurant website on desktop and phone" /></a>
 
-Bilingual (Arabic / English) website for a fictional dental clinic in Baghdad, with a visual identity drawn from Baghdad's kashi tilework.
+### 🍢 Dijla Grill — Restaurant website with 3D food and online ordering
 
-- Full Arabic and English with right-to-left layout and automatic language detection
-- Live "open now" status calculated in Baghdad time
-- Treatments with transparent starting prices in IQD
-- Validated booking form for Iraqi phone numbers
-- Accessible, mobile-first, deployed as a static site with GitHub Actions
+A playful Baghdadi charcoal-grill concept. Food modeled in code floats around the title, and a scroll scene builds a samoon sandwich layer by layer.
 
-`Next.js 16` `TypeScript` `Tailwind CSS 4` `React 19`
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-View-16A34A?style=flat-square)](https://mustafacoder365.github.io/lumina-dental-website/)
-[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/MustafaCoder365/lumina-dental-website)
-
----
-
-### ⚖️ Hammurabi Law — Law Firm Website (Concept)
-
-Bilingual (Arabic / English) website for a fictional Baghdad law firm, with an identity drawn from the Code of Hammurabi stele.
-
-- Hero stele with a real photo as its relief and the firm's promises "carved" over cuneiform texture
-- Full Arabic and English with right-to-left layout and automatic language detection
-- Practice areas, partners, office, FAQ, and a validated consultation form
-- Classic Arabic/Latin typography (Amiri + IBM Plex Sans Arabic), deployed with GitHub Actions
-
-`Next.js 16` `TypeScript` `Tailwind CSS 4` `React 19`
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-View-16A34A?style=flat-square)](https://mustafacoder365.github.io/law-firm-website/)
-[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/MustafaCoder365/law-firm-website)
-
----
-
-### 🍢 Dijla Grill — Restaurant Website (Concept)
-
-Playful, bilingual (Arabic / English) website for a fictional Baghdadi charcoal grill, with real-time 3D food built in Three.js.
-
-- 3D food (skewer, tomato, samoon, tea glass…) floating around a giant title, reacting to pointer and scroll
-- Pinned scroll scene that builds a 3D samoon sandwich layer by layer
-- Full tabbed menu with IQD prices, live "open now" status in Baghdad time, tilted marquee ribbons
-- Opening animation, RTL layout, and fast on-demand 3D rendering
+- **Online ordering**: photo menu with Arabic-aware search and filters, an order panel, and checkout straight to WhatsApp
+- **Table booking**, group deals, live "open now" status in Baghdad time
+- **Real-time 3D** that only renders while visible, with lighter scenes on phones
 
 `Next.js 16` `Three.js` `React Three Fiber` `TypeScript` `Tailwind CSS 4`
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-View-16A34A?style=flat-square)](https://mustafacoder365.github.io/restaurant-website/)
+[![Live](https://img.shields.io/badge/Live%20Demo-View-B3202E?style=flat-square&logo=googlechrome&logoColor=white)](https://mustafacoder365.github.io/restaurant-website/)
 [![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/MustafaCoder365/restaurant-website)
 
 ---
 
-### 📊 Business Admin Dashboard
+<a href="https://mustafacoder365.github.io/law-firm-website/"><img src="./profile/projects/hammurabi-law.jpg" width="100%" alt="Hammurabi Law website on desktop and phone" /></a>
 
-Enterprise-style analytics dashboard with six fully functional pages: Dashboard, Users, Orders, Products, Reports, and Settings.
+### ⚖️ Hammurabi Law — Law firm website with a 3D scale of justice
 
-- Live sales & revenue charts
-- Sortable, paginated tables with **CSV export** and bulk actions
-- Global **command palette** (Ctrl / Cmd + K) and keyboard-navigable search
-- Detail drawers, notifications center, dark / light theme
-- Reusable component and CSS-variable design system
+A Baghdad law firm concept with an identity drawn from the Code of Hammurabi stele.
 
-`React 19` `Vite` `React Router` `Recharts` `Framer Motion` `Context API`
+- **Interactive bronze scale** in 3D that tips as you scroll and weighs the case in a pinned scene
+- **Fee estimator**, practice-area pages, partners, FAQ, and a validated consultation form
+- Classic Arabic / Latin typography, automatic language detection
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-View-16A34A?style=flat-square)](https://mustafacoder365.github.io/Business-Admin-Dashboard/)
-[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/MustafaCoder365/Business-Admin-Dashboard)
+`Next.js 16` `Three.js` `React Three Fiber` `TypeScript` `Tailwind CSS 4`
 
----
-
-### 📚 Book Store Application
-
-Full-featured e-commerce book store.
-
-- Product catalog with live search
-- Shopping cart (Context API + localStorage)
-- Multi-step checkout flow
-- Login / register with modal and full-page views
-
-`React` `React Router` `Context API` `Vite` `CSS3`
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-View-16A34A?style=flat-square)](https://mustafacoder365.github.io/Book-Store-Application/)
-[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/MustafaCoder365/Book-Store-Application)
+[![Live](https://img.shields.io/badge/Live%20Demo-View-A8743A?style=flat-square&logo=googlechrome&logoColor=white)](https://mustafacoder365.github.io/law-firm-website/)
+[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/MustafaCoder365/law-firm-website)
 
 ---
 
-### 🏜️ Dubai Desert Safari
+<a href="https://mustafacoder365.github.io/lumina-dental-website/"><img src="./profile/projects/lumina-dental.jpg" width="100%" alt="Lumina Dental website on desktop and phone" /></a>
 
-Tourism booking web app.
+### 🦷 Lumina Dental — Dental clinic website
 
-- Tour listings and dynamic tour detail pages
-- Ratings, reviews, and a booking / pricing card
-- Login / register with validation and toast notifications
-- Fully responsive layout
+A dental clinic concept whose visual identity comes from Baghdad's kashi tilework.
 
-`React` `React Router` `Vite` `React Toastify` `CSS3`
+- Treatments with transparent starting prices in IQD
+- Live "open now" status and a validated booking form for Iraqi phone numbers
+- Accessible, mobile-first, static export deployed with GitHub Actions
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-View-16A34A?style=flat-square)](https://mustafacoder365.github.io/Dubai-Desert-Safari/)
-[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/MustafaCoder365/Dubai-Desert-Safari)
+`Next.js 16` `TypeScript` `Tailwind CSS 4` `React 19`
 
----
+[![Live](https://img.shields.io/badge/Live%20Demo-View-1E6FA8?style=flat-square&logo=googlechrome&logoColor=white)](https://mustafacoder365.github.io/lumina-dental-website/)
+[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/MustafaCoder365/lumina-dental-website)
+
+<br>
+
+## 🧩 More apps
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://mustafacoder365.github.io/Business-Admin-Dashboard/"><img src="./profile/projects/admin-dashboard.jpg" width="100%" alt="Business Admin Dashboard" /></a>
+      <h4>📊 Business Admin Dashboard</h4>
+      Six-page analytics dashboard: live charts, sortable tables with CSV export, a <b>Ctrl+K</b> command palette, and dark mode.
+      <br><br>
+      <code>React 19</code> <code>Recharts</code> <code>Framer Motion</code>
+      <br><br>
+      <a href="https://mustafacoder365.github.io/Business-Admin-Dashboard/">Live</a> · <a href="https://github.com/MustafaCoder365/Business-Admin-Dashboard">Code</a>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://mustafacoder365.github.io/Book-Store-Application/"><img src="./profile/projects/book-store.jpg" width="100%" alt="Book Store Application" /></a>
+      <h4>📚 Book Store</h4>
+      E-commerce store with live search, a persistent cart, multi-step checkout, and login / register flows.
+      <br><br>
+      <code>React</code> <code>Context API</code> <code>Vite</code>
+      <br><br>
+      <a href="https://mustafacoder365.github.io/Book-Store-Application/">Live</a> · <a href="https://github.com/MustafaCoder365/Book-Store-Application">Code</a>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://mustafacoder365.github.io/Dubai-Desert-Safari/"><img src="./profile/projects/desert-safari.jpg" width="100%" alt="Dubai Desert Safari" /></a>
+      <h4>🏜️ Dubai Desert Safari</h4>
+      Tour booking app with listings, detail pages, ratings and reviews, and a pricing card.
+      <br><br>
+      <code>React</code> <code>React Router</code> <code>Toastify</code>
+      <br><br>
+      <a href="https://mustafacoder365.github.io/Dubai-Desert-Safari/">Live</a> · <a href="https://github.com/MustafaCoder365/Dubai-Desert-Safari">Code</a>
+    </td>
+  </tr>
+</table>
 
 <details>
-<summary><b>🧪 More projects & UI practice</b></summary>
+<summary><b>🧪 UI practice and smaller projects</b></summary>
 <br>
 
 | Project | Repository |
@@ -162,40 +153,42 @@ Tourism booking web app.
 
 </details>
 
----
+<br>
 
-## 🛠️ Tech Stack
+## 🛠️ Tech stack
 
 | Area | Tools |
 |---|---|
-| **Frontend** | <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css,bootstrap" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" /> |
-| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,prisma,mongodb,mysql" /> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,vercel" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css,bootstrap" alt="Next.js, React, TypeScript, JavaScript, Tailwind CSS, HTML, CSS, Bootstrap" /> |
+| **3D & motion** | <img src="https://skillicons.dev/icons?i=threejs,vite" alt="Three.js, Vite" /> &nbsp; React Three Fiber · Framer Motion |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" alt="Node.js, NestJS, Express" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,prisma,mongodb,mysql" alt="PostgreSQL, Prisma, MongoDB, MySQL" /> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,postman,vscode,vercel" alt="Git, GitHub, GitHub Actions, Docker, Postman, VS Code, Vercel" /> |
 
----
+<br>
 
-## 📊 GitHub Stats
+## 📊 GitHub stats
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg" />
-    <img height="165" src="./profile/stats.svg" alt="GitHub Stats" />
+    <img height="165" src="./profile/stats.svg" alt="GitHub stats" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg" />
-    <img height="165" src="./profile/top-langs.svg" alt="Top Languages" />
+    <img height="165" src="./profile/top-langs.svg" alt="Top languages" />
   </picture>
 </p>
 
----
+<br>
 
 <div align="center">
 
-**Let's build something great together.**
+### 🤝 Let's build something together
 
-📧 [mustafa1997670@gmail.com](mailto:mustafa1997670@gmail.com) &nbsp;•&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/mustafa-shakir-840374330)
+Need a website, a dashboard, or a web app for your business? I'm open to full-time roles, remote work, and freelance projects.
 
-⭐ Always building. Always improving.
+<a href="mailto:mustafa1997670@gmail.com"><img src="https://img.shields.io/badge/Email-mustafa1997670%40gmail.com-0F172A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Mustafa" /></a>
+<a href="https://www.linkedin.com/in/mustafa-shakir-840374330"><img src="https://img.shields.io/badge/LinkedIn-Mustafa%20Shakir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mustafa on LinkedIn" /></a>
 
 </div>

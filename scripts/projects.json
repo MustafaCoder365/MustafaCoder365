@@ -1,0 +1,57 @@
+[
+  {
+    "slug": "dijla-grill",
+    "url": "https://mustafacoder365.github.io/restaurant-website/ar/",
+    "locale": "ar-IQ",
+    "skipIntro": ["dg-intro"],
+    "accent": "#b3202e",
+    "accent2": "#f2a71b",
+    "wait": 6000
+  },
+  {
+    "slug": "hammurabi-law",
+    "url": "https://mustafacoder365.github.io/law-firm-website/ar/",
+    "locale": "ar-IQ",
+    "skipIntro": ["hl-intro"],
+    "accent": "#a8743a",
+    "accent2": "#1f3a5f",
+    "wait": 6000
+  },
+  {
+    "slug": "lumina-dental",
+    "url": "https://mustafacoder365.github.io/lumina-dental-website/en/",
+    "accent": "#1e6fa8",
+    "accent2": "#2bb3a3"
+  },
+  {
+    "slug": "truestackit",
+    "url": "https://truestackit.com/",
+    "accent": "#4f46e5",
+    "accent2": "#06b6d4",
+    "wait": 6000
+  },
+  {
+    "slug": "oak",
+    "url": "https://oak.com.iq/",
+    "accent": "#16a34a",
+    "accent2": "#0ea5e9"
+  },
+  {
+    "slug": "admin-dashboard",
+    "url": "https://mustafacoder365.github.io/Business-Admin-Dashboard/",
+    "accent": "#6366f1",
+    "accent2": "#22c55e"
+  },
+  {
+    "slug": "book-store",
+    "url": "https://mustafacoder365.github.io/Book-Store-Application/",
+    "accent": "#f59e0b",
+    "accent2": "#ef4444"
+  },
+  {
+    "slug": "desert-safari",
+    "url": "https://mustafacoder365.github.io/Dubai-Desert-Safari/",
+    "accent": "#ea580c",
+    "accent2": "#facc15"
+  }
+]

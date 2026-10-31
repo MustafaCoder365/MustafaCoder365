@@ -1,0 +1,49 @@
+name: Update project screenshots
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 3 * * 1" # weekly, Monday 03:00 UTC
+  push:
+    branches: [main]
+    paths:
+      - "scripts/**"
+      - ".github/workflows/project-screens.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: project-screens
+  cancel-in-progress: true
+
+jobs:
+  shoot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install Playwright
+        run: |
+          npm init -y >/dev/null
+          npm install playwright@1.56.1
+          npx playwright install --with-deps chromium
+
+      - name: Install Arabic fonts
+        run: sudo apt-get install -y fonts-noto-core fonts-noto-color-emoji
+
+      - name: Take screenshots
+        run: node scripts/shoot.mjs
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/projects
+          git diff --cached --quiet || git commit -m "Update project screenshots"
+          git pull --rebase
+          git push

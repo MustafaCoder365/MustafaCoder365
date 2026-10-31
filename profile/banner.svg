@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Mustafa Shakir — Frontend Software Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="1" stop-color="#111a33"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#6366f1" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#6366f1" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#06b6d4" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#06b6d4" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#a5b4fc"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#818cf8"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.045"/>
+    </pattern>
+    <clipPath id="frame"><rect width="1200" height="340" rx="22"/></clipPath>
+    <style>
+      .float1 { animation: f1 9s ease-in-out infinite; }
+      .float2 { animation: f2 11s ease-in-out infinite; }
+      .cursor { animation: blink 1.1s steps(1) infinite; }
+      .line { opacity: 0; animation: show 0.6s ease forwards; }
+      .l1 { animation-delay: 0.2s; } .l2 { animation-delay: 0.5s; } .l3 { animation-delay: 0.8s; }
+      .l4 { animation-delay: 1.1s; } .l5 { animation-delay: 1.4s; } .l6 { animation-delay: 1.7s; }
+      @keyframes f1 { 0%,100% { transform: translate(0,0); } 50% { transform: translate(40px,20px); } }
+      @keyframes f2 { 0%,100% { transform: translate(0,0); } 50% { transform: translate(-50px,-15px); } }
+      @keyframes blink { 50% { opacity: 0; } }
+      @keyframes show { from { opacity: 0; transform: translateX(-6px); } to { opacity: 1; transform: none; } }
+      @media (prefers-reduced-motion: reduce) { .float1,.float2,.cursor { animation: none; } .line { animation: none; opacity: 1; } }
+      text { font-family: "Segoe UI", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif; }
+      .mono { font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace; }
+    </style>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="340" fill="url(#bg)"/>
+    <rect width="1200" height="340" fill="url(#grid)"/>
+    <circle class="float1" cx="180" cy="40" r="260" fill="url(#glowA)"/>
+    <circle class="float2" cx="1080" cy="320" r="260" fill="url(#glowB)"/>
+
+    <!-- Left: name and role -->
+    <g transform="translate(70 0)">
+      <rect x="0" y="72" width="214" height="30" rx="15" fill="#ffffff" fill-opacity="0.07" stroke="#ffffff" stroke-opacity="0.12"/>
+      <circle cx="18" cy="87" r="5" fill="#22c55e"/>
+      <circle cx="18" cy="87" r="9" fill="#22c55e" fill-opacity="0.25"/>
+      <text x="34" y="92" font-size="14" fill="#cbd5e1">Open to full-time &amp; remote</text>
+
+      <text x="0" y="165" font-size="60" font-weight="800" fill="url(#name)" letter-spacing="-1">Mustafa Shakir</text>
+      <text x="0" y="207" font-size="24" font-weight="600" fill="url(#accent)">Frontend Software Developer</text>
+      <text x="0" y="245" font-size="17" fill="#94a3b8">Next.js · React · TypeScript · Three.js · Tailwind CSS</text>
+      <text x="0" y="280" font-size="15" fill="#64748b">📍 Baghdad, Iraq  ·  Arabic / English, RTL-first interfaces</text>
+    </g>
+
+    <!-- Right: code window -->
+    <g transform="translate(745 52)">
+      <rect width="390" height="236" rx="14" fill="#0f1529" stroke="#ffffff" stroke-opacity="0.1"/>
+      <rect width="390" height="34" rx="14" fill="#161d36"/>
+      <rect y="20" width="390" height="14" fill="#161d36"/>
+      <circle cx="20" cy="17" r="5.5" fill="#ff5f57"/>
+      <circle cx="38" cy="17" r="5.5" fill="#febc2e"/>
+      <circle cx="56" cy="17" r="5.5" fill="#28c840"/>
+      <text x="195" y="22" font-size="12" fill="#64748b" text-anchor="middle" class="mono">mustafa.ts</text>
+
+      <g class="mono" font-size="14.5">
+        <text class="line l1" x="20" y="66"><tspan fill="#c084fc">const</tspan><tspan fill="#e2e8f0"> mustafa </tspan><tspan fill="#94a3b8">= {</tspan></text>
+        <text class="line l2" x="40" y="92"><tspan fill="#7dd3fc">role</tspan><tspan fill="#94a3b8">: </tspan><tspan fill="#86efac">"Frontend Developer"</tspan><tspan fill="#94a3b8">,</tspan></text>
+        <text class="line l3" x="40" y="118"><tspan fill="#7dd3fc">builds</tspan><tspan fill="#94a3b8">: [</tspan><tspan fill="#86efac">"websites"</tspan><tspan fill="#94a3b8">, </tspan><tspan fill="#86efac">"dashboards"</tspan><tspan fill="#94a3b8">],</tspan></text>
+        <text class="line l4" x="40" y="144"><tspan fill="#7dd3fc">loves</tspan><tspan fill="#94a3b8">: </tspan><tspan fill="#86efac">"3D on the web"</tspan><tspan fill="#94a3b8">,</tspan></text>
+        <text class="line l5" x="40" y="170"><tspan fill="#7dd3fc">languages</tspan><tspan fill="#94a3b8">: [</tspan><tspan fill="#86efac">"ar"</tspan><tspan fill="#94a3b8">, </tspan><tspan fill="#86efac">"en"</tspan><tspan fill="#94a3b8">],</tspan></text>
+        <text class="line l6" x="20" y="196"><tspan fill="#94a3b8">};</tspan></text>
+      </g>
+      <rect class="cursor" x="42" y="183" width="9" height="17" fill="#818cf8"/>
+    </g>
+  </g>
+</svg>
