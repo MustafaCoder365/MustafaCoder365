@@ -60,7 +60,7 @@ Bilingual platform for an IT services company: public marketing site, admin dash
 A playful Baghdadi charcoal-grill concept. Food modeled in code floats around the title, and a scroll scene builds a samoon sandwich layer by layer.
 
 - **Online ordering**: photo menu with Arabic-aware search and filters, an order panel, and checkout straight to WhatsApp
-- **Table booking**, group deals, live "open now" status in Baghdad time
+- **Dish details** with options and pairings, a **QR table menu** page, **table booking**, and group deals
 - **Real-time 3D** that only renders while visible, with lighter scenes on phones
 
 `Next.js 16` `Three.js` `React Three Fiber` `TypeScript` `Tailwind CSS 4`
