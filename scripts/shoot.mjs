@@ -61,12 +61,14 @@ function mockupHtml(p, desk, phone) {
   .win img{display:block;width:1230px;height:769px;object-fit:cover;object-position:top}
   .phone{position:absolute;${phoneSide};bottom:60px;width:300px;height:620px;border-radius:46px;background:#05070d;padding:11px;
     box-shadow:0 50px 100px -20px #000e, 0 0 0 2px #ffffff22}
-  .phone img{width:100%;height:100%;object-fit:cover;object-position:top;border-radius:36px;display:block}
-  .notch{position:absolute;top:22px;left:50%;transform:translateX(-50%);width:92px;height:26px;border-radius:20px;background:#05070d;z-index:2}
+  .screen{width:100%;height:100%;border-radius:36px;overflow:hidden;background:#05070d;display:flex;flex-direction:column}
+  .status{height:40px;flex:none;display:flex;align-items:center;justify-content:space-between;padding:0 26px;color:#fff;font-size:13px;font-weight:600}
+  .phone img{width:100%;flex:1;min-height:0;object-fit:cover;object-position:top;display:block}
+  .notch{position:absolute;top:21px;left:50%;transform:translateX(-50%);width:86px;height:24px;border-radius:20px;background:#000;z-index:2}
   </style></head><body><div class="grid"></div>
   <div class="win"><div class="bar"><span class="dot" style="background:#ff5f57"></span><span class="dot" style="background:#febc2e"></span><span class="dot" style="background:#28c840"></span>
   <div class="url">🔒 ${host}</div></div><img src="data:image/jpeg;base64,${desk}"></div>
-  <div class="phone"><div class="notch"></div><img src="data:image/jpeg;base64,${phone}"></div>
+  <div class="phone"><div class="notch"></div><div class="screen"><div class="status"><span>9:41</span><span>●●● ▮</span></div><img src="data:image/jpeg;base64,${phone}"></div></div>
   </body></html>`;
 }
 

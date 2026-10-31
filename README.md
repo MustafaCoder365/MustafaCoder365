@@ -65,6 +65,8 @@ A playful Baghdadi charcoal-grill concept. Food modeled in code floats around th
 
 `Next.js 16` `Three.js` `React Three Fiber` `TypeScript` `Tailwind CSS 4`
 
+<a href="https://mustafacoder365.github.io/restaurant-website/ar/#menu"><img src="./profile/projects/dijla-grill-menu.jpg" width="100%" alt="Dijla Grill photo menu with search, filters, and add-to-order buttons" /></a>
+
 [![Live](https://img.shields.io/badge/Live%20Demo-View-B3202E?style=flat-square&logo=googlechrome&logoColor=white)](https://mustafacoder365.github.io/restaurant-website/)
 [![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/MustafaCoder365/restaurant-website)
 

@@ -3,16 +3,31 @@
     "slug": "dijla-grill",
     "url": "https://mustafacoder365.github.io/restaurant-website/ar/",
     "locale": "ar-IQ",
-    "skipIntro": ["dg-intro"],
+    "skipIntro": [
+      "dg-intro"
+    ],
     "accent": "#b3202e",
     "accent2": "#f2a71b",
+    "wait": 6000
+  },
+  {
+    "slug": "dijla-grill-menu",
+    "url": "https://mustafacoder365.github.io/restaurant-website/ar/#menu",
+    "locale": "ar-IQ",
+    "skipIntro": [
+      "dg-intro"
+    ],
+    "accent": "#f2a71b",
+    "accent2": "#b3202e",
     "wait": 6000
   },
   {
     "slug": "hammurabi-law",
     "url": "https://mustafacoder365.github.io/law-firm-website/ar/",
     "locale": "ar-IQ",
-    "skipIntro": ["hl-intro"],
+    "skipIntro": [
+      "hl-intro"
+    ],
     "accent": "#a8743a",
     "accent2": "#1f3a5f",
     "wait": 6000
