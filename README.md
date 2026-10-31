@@ -82,6 +82,22 @@ Bilingual (Arabic / English) website for a fictional Baghdad law firm, with an i
 
 ---
 
+### 🍢 Dijla Grill — Restaurant Website (Concept)
+
+Playful, bilingual (Arabic / English) website for a fictional Baghdadi charcoal grill, with real-time 3D food built in Three.js.
+
+- 3D food (skewer, tomato, samoon, tea glass…) floating around a giant title, reacting to pointer and scroll
+- Pinned scroll scene that builds a 3D samoon sandwich layer by layer
+- Full tabbed menu with IQD prices, live "open now" status in Baghdad time, tilted marquee ribbons
+- Opening animation, RTL layout, and fast on-demand 3D rendering
+
+`Next.js 16` `Three.js` `React Three Fiber` `TypeScript` `Tailwind CSS 4`
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View-16A34A?style=flat-square)](https://mustafacoder365.github.io/restaurant-website/)
+[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/MustafaCoder365/restaurant-website)
+
+---
+
 ### 📊 Business Admin Dashboard
 
 Enterprise-style analytics dashboard with six fully functional pages: Dashboard, Users, Orders, Products, Reports, and Settings.
