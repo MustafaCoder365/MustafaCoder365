@@ -37,6 +37,24 @@ Official website for an Iraqi engineering consultancy, delivered from requiremen
 
 ## 🚀 Featured projects
 
+<a href="https://github.com/MustafaCoder365/clinleen-showcase"><img src="./profile/projects/clinleen.jpg" width="100%" alt="ClinLeen dental clinic platform on desktop and phone" /></a>
+
+### 🦷 ClinLeen — SaaS platform for dental clinics
+
+My own product: a multi-tenant platform where any dental clinic subscribes and runs its whole practice, across branches, in Arabic or English.
+
+- **Interactive dental chart** (FDI), complete patient files, treatment plans, prescriptions, and consents
+- **Appointments** with conflict prevention, a live waiting room, and a public booking page for patients
+- **Billing** with installments and local payment methods, cash register, expenses, inventory, and dental labs
+- Roles and granular permissions, audit log, strict per-clinic data isolation, installable PWA
+
+`Next.js 14` `TypeScript` `PostgreSQL` `Prisma` `NextAuth` `Zod` `Tailwind CSS`
+
+[![Showcase](https://img.shields.io/badge/Showcase-View%20screens-0D9488?style=flat-square&logo=githubpages&logoColor=white)](https://github.com/MustafaCoder365/clinleen-showcase)
+![Private](https://img.shields.io/badge/Source-Private%20%C2%B7%20commercial-334155?style=flat-square&logo=github)
+
+---
+
 <a href="https://truestackit.com"><img src="./profile/projects/truestackit.jpg" width="100%" alt="TrueStackIT platform on desktop and phone" /></a>
 
 ### 🧱 TrueStackIT — Full-stack IT services platform
